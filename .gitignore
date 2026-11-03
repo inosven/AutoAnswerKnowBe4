@@ -1,0 +1,7 @@
+node_modules/
+dist/
+quiz-data/
+logs/
+temp/
+.claude/settings.local.json
+*.log
